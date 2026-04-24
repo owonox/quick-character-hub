@@ -1,0 +1,8 @@
+{
+    "display_name": "角色速切",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css"
+}
